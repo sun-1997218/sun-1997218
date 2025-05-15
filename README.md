@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/salaheiyo?site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/salaheiyo?theme=light,unicorn)
 
 <!--
 **sun-1997218/sun-1997218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
