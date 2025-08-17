@@ -5,7 +5,5 @@
 - 🌱 I’m currently learning Rust and solidity
 - 👯 Code change the world
 - 🤔 trade crypto
-- 💬 C# C++ RUST
-- 📫
-- 😄 
+- 💬 RUST C/C++ C#
 
